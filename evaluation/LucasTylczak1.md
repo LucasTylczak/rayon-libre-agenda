@@ -1,4 +1,4 @@
-]633;E;{ echo "https://github.com/LucasTylczak/bourse-aux-velos1"\x3b echo\x3b echo ''\x3b git -C ~/git-sdv/bourse-aux-velos1 log --oneline --graph --all\x3b echo ''\x3b } > evaluation/LucasTylczak1.md;1d0be53e-ea02-48cd-828a-58e192683b7d]633;Chttps://github.com/LucasTylczak/bourse-aux-velos1
+https://github.com/LucasTylczak/bourse-aux-velos1
 
 
 *   3f9ed83 Fusion de la branche commission dans main : résolution du conflit, commission gardée à 12 %
